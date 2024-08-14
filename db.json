@@ -1,9 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Applications": [
+    {
+      "id": "bc32",
+      "studentName": "Tester",
+      "gender": "Male",
+      "age": "18",
+      "email": "qk8pO@example.com",
+      "phoneNumber": "07111111111"
+    },
+    {
+      "id": "e304",
+      "studentName": "bella",
+      "gender": "female",
+      "age": "2",
+      "email": "randomhuman0386@gmail.com",
+      "phoneNumber": "254304"
+    },
+    {
+      "id": "8538",
+      "studentName": "Josh",
+      "gender": "M",
+      "age": "23",
+      "email": "joshua.nyambane@student.moringaschool",
+      "phoneNumber": "0707"
+    }
+  ]
 }
